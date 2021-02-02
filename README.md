@@ -18,8 +18,8 @@
 * `2020-06-12` 13-双人捕鱼
 
 ### 我第一个设计游戏作品
-* `2020-04-22` 11-飞机大战
-> <a href="https://v.youku.com/v_show/id_XNTA5NTIwODY3Ng==.html"><img src="https://m.ykimg.com/054F0601601902AB0000012F7504586B" width="800" height="400" alt="飞机大战视频演示" align=center /></a>
+* `2020-04-22` [11-飞机大战](https://v.youku.com/v_show/id_XNTA5NTIwODY3Ng==.html)
+> ![](https://github.com/yuchen227/scratch/blob/main/%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98.jpg)
 
 ### 我的第一部编程集
 * `2020-04-15` 10-热带曲调
