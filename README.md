@@ -19,7 +19,7 @@
 
 ### 我第一个设计游戏作品
 * `2020-04-22` 11-飞机大战
-<video src="\作品展示\飞机大战.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<video src="https://github.com/yuchen227/scratch/blob/main/%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 ### 我的第一部编程集
 * `2020-04-15` 10-热带曲调
