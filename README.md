@@ -19,9 +19,7 @@
 
 ### 我第一个设计游戏作品
 * `2020-04-22` 11-飞机大战
-<a href="https://v.youku.com/v_show/id_XNTA5NTIwODY3Ng==.html">
-<img src="http://m.ykimg.com/054F0108601902AB0000012F7502ABF7" width = "800" height = "400" alt="https://v.youku.com/v_show/id_XNTA5NTIwODY3Ng==.html" align=center />
-</a>
+<a href="https://v.youku.com/v_show/id_XNTA5NTIwODY3Ng==.html"><img src="https://m.ykimg.com/054F0601601902AB0000012F7504586B" width="800" height="400" alt="飞机大战视频演示" align=center /></a>
 
 ### 我的第一部编程集
 * `2020-04-15` 10-热带曲调
